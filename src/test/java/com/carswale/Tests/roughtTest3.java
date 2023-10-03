@@ -7,4 +7,10 @@ public class roughtTest3 {
 		System.out.println("This is created by develop branch");
 	}
 
+	
+	public void test3()
+	{
+		System.out.println("This is created by develop branch");
+	}
+
 }
